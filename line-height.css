@@ -1,0 +1,17 @@
+h1{
+    text-decoration: overline double;
+    text-align: center;
+    letter-spacing: 5px;
+    font-family: impact;
+}
+b{
+    font-weight: 500;
+    font-family: 'Lucida Sans';
+    font-style: italic;
+    line-height: 2px;
+
+}
+p{
+    text-align: justify;
+    font-size: 50px;
+}
