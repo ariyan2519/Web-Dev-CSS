@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    color: #ffa511;
+    font-family: sans-serif;
+    font-weight: 900;
+    font-size: 55px;
+    letter-spacing: 2px;
+    line-height: normal;
+    text-decoration: underline double paleturquoise;
+    text-transform: uppercase;
+}
