@@ -1,0 +1,10 @@
+div h1{
+    color: red;
+    text-decoration: dotted;
+    background-color: aquamarine;
+    text-decoration: line-through;
+
+}
+#myid {
+    color: green;
+}
